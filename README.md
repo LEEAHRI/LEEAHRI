@@ -1,4 +1,4 @@
-### 나의 사랑했던 게으른 날들🙂
+### 삶'은 아리😶
 
 <!--
 **LEEAHRI/LEEAHRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
