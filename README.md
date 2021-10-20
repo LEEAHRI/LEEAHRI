@@ -13,7 +13,7 @@ AI의 기술과 비지니스 핏에 대해 고민하는 개발자 입니다.
 ## 💊Tech Stacks
 - Back-end:<img src="https://img.shields.io/badge/Django-green?style=plastic&logo=Django&logoColor=092E20"/> <img src="https://img.shields.io/badge/Flask-blue?style=plastic&logo=Flask&logoColor=000000"/>
 
-- DB:<img src="https://img.shields.io/badge/MySQL-corflowerblue?style=plastic&logo=MySQL&logoColor=092E20"/><img src="https://img.shields.io/badge/MongoDB-orange?style=plastic&logo=MongoDB&logoColor=47A248"/>
+- DB:<img src="https://img.shields.io/badge/MySQL-cornflowerblue?style=plastic&logo=MySQL&logoColor=092E20"/><img src="https://img.shields.io/badge/MongoDB-orange?style=plastic&logo=MongoDB&logoColor=47A248"/>
 - AI engineering:
 - Version Control: 
 - Communication:
