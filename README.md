@@ -11,7 +11,7 @@ AI의 기술과 비지니스 핏에 대해 고민하는 개발자 입니다.
 - AI service developer
 
 ## 💊Tech Stacks
-- Back-end:<img src="https://img.shields.io/badge/Django-{green}?style={plastic}&logo={Django}&logoColor={092E20}"/>
+- Back-end:<img src="https://img.shields.io/badge/Django-green?style=plastic&logo=Django&logoColor=092E20"/>
 
 - DB:
 - AI engineering:
