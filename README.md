@@ -1,17 +1,14 @@
-### 삶'은 아리😶
-##### Life is boiled egg
+### Welcome To My Github!😐
 
-<!--
-**LEEAHRI/LEEAHRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI의 기술과 비지니스 핏에 대해 고민하는 개발자 입니다. 
 
-Here are some ideas to get you started:
+##Personal Info
+이아리 (LEE AHRI)
+AI service developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Tech Stacks
+Back-end:
+DB:
+AI engineering:
+Version Control: 
+Communication:
