@@ -1,4 +1,4 @@
-## Welcome To AHRI Github😺
+## 😺Welcome To AHRI Githu
 
 AI의 기술과 비지니스 핏에 대해 고민하는 개발자 입니다.
 
