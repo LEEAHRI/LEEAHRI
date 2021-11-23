@@ -10,5 +10,4 @@
 - DB: <img src="https://img.shields.io/badge/MySQL-cornflowerblue?style=flat-quare&logo=MySQL&logoColor=092E20"/> <img src="https://img.shields.io/badge/MongoDB-orange?style=flat-quare&logo=MongoDB&logoColor=47A248"/>
 - AI engineering: <img src="https://img.shields.io/badge/TensorFlow-silver?style=flat-quare&logo=TensorFlow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/Keras-green?style=flat-quare&logo=Keras&logoColor=D00000"/>
 
-## Resume
-https://www.notion.so/LEE-AHRI-046a4ff0cc1c48f48e8dbcad2993cf1b
+
