@@ -1,7 +1,11 @@
-## 😺Welcome To AHRI Github!
+# Backend-Developer
+'''
+기술을 넘어 비즈니스에 기여하는 것을 좋아합니다.
+'''
 
 ## Personal Info
 - 이아리 (LEE AHRI)
+- dkfl4059@gmail.com
 
 ## Tech Stacks
 -  <img src="https://img.shields.io/badge/Python-white?style=flat-quare&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Java-white?style=flat-quare&logo=Java&logoColor=3776AB"/>
