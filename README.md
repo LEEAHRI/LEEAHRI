@@ -1,7 +1,7 @@
 # Backend-Developer
 <pre>
 <code>
-기술을 넘어 비즈니스에 기여하는 것을 좋아합니다.
+Data를 통한 비즈니스에 기여에 관심이 많습니다.
 </code>
 </pre>
 
