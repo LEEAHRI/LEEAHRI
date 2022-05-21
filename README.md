@@ -1,7 +1,7 @@
 # Backend-Developer
 <pre>
 <code>
-Data를 이용한 비즈니스 기여에 관심이 많습니다.
+Not easy but worth it meaning
 </code>
 </pre>
 
