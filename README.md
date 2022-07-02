@@ -9,7 +9,7 @@ Not easy but worth it meaning
 ## Personal Info
 - 이아리 (LEE AHRI)
 - dkfl4059@gmail.com
-- Kakao
+- Kakao Hadoop Platform Engineer
 
 ## Tech Stacks
 - <img src="https://img.shields.io/badge/Python-white?style=flat-quare&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Java-white?style=flat-quare&logo=Java&logoColor=3776AB"/>
